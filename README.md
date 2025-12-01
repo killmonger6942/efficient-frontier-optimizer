@@ -22,7 +22,7 @@ Where:
 
 ## Visual Output
 The red star indicates the mathematically optimal portfolio allocation.
-![Efficient Frontier](frontier_graph.png)
+![Efficient Frontier](portfolio_optimiser.png)
 
 ## Technologies Used
 * Python 3.10+
